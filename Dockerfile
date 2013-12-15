@@ -12,4 +12,4 @@ ADD . /src
 RUN cd /src; npm install
 
 EXPOSE  8080
-CMD ["node", "app.js"]
+CMD ["node", "/src/app.js"]
