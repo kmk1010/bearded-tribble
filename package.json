@@ -1,6 +1,6 @@
 {
-  "name": "docker-centos-bearded-tribble",
-  "private": true,
+  "name": "centos-bearded-tribble",
+  "private": false,
   "version": "0.0.1",
   "description": "Node.js Bearded Tribble app on CentOS using docker",
   "author": "Adron Hall",
